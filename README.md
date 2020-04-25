@@ -1,4 +1,4 @@
-# Welcome to my GIt
+# Welcome to my Git
 
 I'm a data enthusiast essentially using Python.
 
